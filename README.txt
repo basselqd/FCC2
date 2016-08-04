@@ -1,4 +1,4 @@
-The above scripts are perform simulations of FCC array of "atomistic" maghemite nanoparticles using MagLua.
+The above scripts are to perform simulations of FCC array of "atomistic" maghemite nanoparticles using MagLua.
 
 MagLua is series of extensions to the Lua scripting language (lua-5.1.5 from https://www.lua.org/ftp/lua-5.1.5.tar.gz). MagLua was developed by Jason Mercer to provide a set of computational tools used to facilitate the numerical simulation of magnetic systems using a variety of different techniques. The resultant code is very efficient as most of the subroutines are written in C++ and can utilise the Message Passing Interface (MPI) when appropriate, to exploit the benefits of parallelism. 
 
